@@ -13,6 +13,7 @@ pnpm dev
 
 
 ```
+## Url of the project
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -25,6 +26,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## also complted the loading animation when the user search the gifs
 ## i also completed the additional task that is like or dislike buttons
 ## also added the next and previous buttons
+
+
 
 ## Learn More
 
