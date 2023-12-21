@@ -10,6 +10,8 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -17,6 +19,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## I completed the authentication with firebase that is user signin and signout
+## i also copleted the searching gifs
+## also complted the loading animation when the user search the gifs
+## i also completed the additional task that is like or dislike buttons
+## also added the next and previous buttons
 
 ## Learn More
 
